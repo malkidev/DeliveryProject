@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="WpfApplication3.Views.LoginV"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApplication3.Views"
+             mc:Ignorable="d" 
+             Height="400" Width="346" Background="#FF0F9D58">
+    <ContentControl x:Name="page" Margin="0,0,92,0">
+        <Grid Background="White" Margin="22,18,-71,10">
+            <Image HorizontalAlignment="Left" Height="81" Margin="100,10,0,0" VerticalAlignment="Top" Width="87" Source="C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\pictures\WhatsApp Image 2020-09-02 at 20.49.48 (1).jpeg"/>
+            <Button x:Name="Login" Command="{Binding MyReplaceUCCommand}" CommandParameter="{Binding Content, ElementName=Login}" Content="Login" HorizontalAlignment="Left" Margin="36,309,0,0" VerticalAlignment="Top" Width="138" Height="36" Foreground="White" Background="#FF0F9D58" FontFamily="Microsoft Sans Serif" FontSize="20" />
+            <Button x:Name="Forgot"  Content="Forgot password?" Command="{Binding myforgotcom}" CommandParameter="{Binding Content,ElementName=Forgot}" HorizontalAlignment="Left" Margin="100,265,0,0" VerticalAlignment="Top" Width="123" Background="White" Foreground="#FF0F9D58" FontFamily="Microsoft Sans Serif" FontSize="16" BorderBrush="White"/>
+            <Label HorizontalAlignment="Left" Margin="36,156,0,0" VerticalAlignment="Top"/>
+            <Label Content="Password" HorizontalAlignment="Left" Margin="16,200,0,0" VerticalAlignment="Top" Width="102" FontFamily="Microsoft Sans Serif" FontSize="16" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+            <Label Content="Username&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,114,0,0" Width="120" Height="32" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" FontSize="16" FontFamily="Windows sans serif" RenderTransformOrigin="0.711,0.892"/>
+            <Label Content=" Welcome Director, please login " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,82,-23.4,0" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" FontFamily="Microsoft Sans Serif" FontSize="20" Width="316"/>
+            <TextBox x:Name="identifier" HorizontalAlignment="Left" Height="28" Margin="10,151,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="133">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFF3EAEA" Offset="0.002"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="password" HorizontalAlignment="Left" Height="27" Margin="10,233,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="127">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFF3EAEA" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+        </Grid>
+
+
+
+    </ContentControl>
+
+</UserControl>

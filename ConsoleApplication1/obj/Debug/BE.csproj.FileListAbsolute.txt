@@ -1,0 +1,47 @@
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CopyComplete
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CopyComplete
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CopyComplete
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\obj\Debug\BE.csproj.CopyComplete
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

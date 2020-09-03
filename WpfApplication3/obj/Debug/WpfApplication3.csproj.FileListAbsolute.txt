@@ -1,0 +1,206 @@
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\sarah\Documents\Visual Studio 2015\Projects\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CopyComplete
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\helper\Downloads\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CopyComplete
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\sarah\Downloads\sarah (4)\sarah\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CopyComplete
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignColors.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\AddDelV.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\RemoveDelV.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\MenuV.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\AllDel.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\LoginV.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\AddDelV.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\RemoveDelV.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\MenuV.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\AllDel.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\LoginV.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\ClientUserControl.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\ClientUserControl.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\DeliveryMenUserControl.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\DistUserControl.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\FinaleMenudel.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\DeliveryMenUserControl.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\DistUserControl.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\FinaleMenudel.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\FinaleMenuClient.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\FinaleMenuDist.g.cs
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\FinaleMenuClient.baml
+C:\Users\sarah\Downloads\sarah and malki v6 (1)\WpfApplication7\WpfApplication3\obj\Debug\ViewModel2\FinaleMenuDist.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignColors.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\ConsoleApplication3.dll.config
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\WpfApplication3.csproj.CopyComplete
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\AddDelV.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\ClientUserControl.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\DeliveryMenUserControl.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\DistUserControl.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\FinaleMenuClient.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\FinaleMenudel.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\FinaleMenuDist.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\RemoveDelV.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\MenuV.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\AllDel.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\LoginV.g.cs
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\AddDelV.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\ClientUserControl.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\DeliveryMenUserControl.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\DistUserControl.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\FinaleMenuClient.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\FinaleMenudel.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\FinaleMenuDist.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\RemoveDelV.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\MenuV.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\AllDel.baml
+C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\obj\Debug\Views\LoginV.baml

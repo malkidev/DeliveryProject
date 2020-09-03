@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="WpfApplication3.UserControl2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApplication3"
+             mc:Ignorable="d" 
+             Height="310" Width="465">
+    <Grid Background="#FF0F9D58"  >
+        <Border BorderBrush="White" BorderThickness="1" HorizontalAlignment="Left" Height="280" Margin="10,10,0,0" VerticalAlignment="Top" Width="434" Background="White" OpacityMask="Black">
+            <Border.Effect>
+                <DropShadowEffect ShadowDepth="0"/>
+            </Border.Effect>
+            <Grid Margin="0.2,-0.8,0.4,-0.2">
+                <Button Content="Remove" HorizontalAlignment="Left" Margin="10,246,0,0" VerticalAlignment="Top" Width="75" Background="#FF0F9D58" FontFamily="Microsoft Sans Serif" Foreground="White" Click="Button_Click"/>
+                <Label Content="..............................................................." Margin="10,24,160.8,228.4" Background="White" FontFamily="Microsoft Sans Serif" FontSize="16" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <Label Content="Remove a delivery Men " Margin="10,10,160.8,238.4" Background="White" FontFamily="Microsoft Sans Serif" FontSize="18
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <ComboBox ItemsSource="{Binding}"  Name="IDc" Height="20" Margin="10,85,101.4,174" SelectionChanged="IDc_SelectionChanged" />
+                <ComboBox SelectedValue="{Binding name}"  Name="LNc" Height="20" Margin="10,163,289.4,96" />
+                <TextBox x:Name="ado" Text="{Binding name, Mode=TwoWay}"  Height="20" Margin="224,163,28.4,96"></TextBox>
+                <Label Content="Identifical number*" Margin="10,56,289.4,199" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" RenderTransformOrigin="0.501,0.5"/>
+                <Label Content="Last Name*" Margin="224,124,139.4,130" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12
+                       " Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <Label Content="First Name*" Margin="10,124,353.4,130" Background="White" FontFamily="Microsoft Sans Serif" FontSize="12" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                <Label Content="* required fields" Margin="10,215,352.8,39.4" Background="White" FontFamily="Microsoft Sans Serif" FontSize="10
+                       " Foreground="Black"/>
+                <Button Content="or Cancel" HorizontalAlignment="Left" Margin="90,248,0,0" VerticalAlignment="Top" Width="52" Background="White" FontSize="10" BorderBrush="White" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+
+            </Grid>
+
+
+        </Border>
+
+    </Grid>
+</UserControl>
+

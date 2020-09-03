@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApplication3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication3"  xmlns:View1="clr-namespace:WpfApplication3.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\helper\Downloads\malkiV9\WpfApplication7\WpfApplication3\pictures\image4.jpg"/>
+    </Window.Background>
+    <Grid x:Name="mainGrid" RenderTransformOrigin="0.241,0.386" Margin="0,0,-126,-21" >
+        <View1:LoginV HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Margin="574,126,198,64" />
+    </Grid>
+
+
+</Window>
