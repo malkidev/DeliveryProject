@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Tu as pris trois jours à comprendre, et maintenant 
+
 namespace BE
 {
   public class Distribution
